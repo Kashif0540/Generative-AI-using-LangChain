@@ -9,7 +9,7 @@ Track completed lectures and maintain consistency throughout the learning journe
 | Lecture | Status |
 |----------|--------|
 | Lecture 01 | ✅ Completed |
-| Lecture 02 | ⬜ |
+| Lecture 02 | ✅ Completed |
 | Lecture 03 | ⬜ |
 | Lecture 04 | ⬜ |
 | Lecture 05 | ⬜ |
