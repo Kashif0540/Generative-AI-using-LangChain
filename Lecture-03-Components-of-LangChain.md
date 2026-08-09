@@ -15,7 +15,7 @@ After completing this lecture, I can:
 
 ---
 
-# Recap of Lecture 02
+# Recap of Lecture 2
 
 Lecture 01 covered:
 
