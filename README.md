@@ -12,7 +12,7 @@ This repository documents my journey to becoming an AI Engineer through structur
 
 Instead of simply watching tutorials, I focus on understanding concepts, building projects, documenting knowledge, and applying what I learn in real-world scenarios.
 
-The objective is to create a public knowledge base that demonstrates both theoretical understanding and practical engineering skills.
+The objective is to create a public knowledge base that demonstrates both theoretical understanding and practical engineering skills
 
 ---
 
