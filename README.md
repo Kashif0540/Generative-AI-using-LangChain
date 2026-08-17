@@ -2,7 +2,8 @@
 
 # 🚀 GenAI Engineering Roadmap
 
-> A comprehensive, project-based learning journey through Generative AI, Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, and modern AI application development
+> A comprehensive, project-based learning journey through Generative AI, Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, and modern AI application development.
+> 
 ---
 
 ## 📖 About This Repository
