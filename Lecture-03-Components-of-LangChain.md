@@ -4,7 +4,7 @@
 
 After completing this lecture, I can:
 
-- List all six core components of LangChain.
+- List all six core components of LangChain
 - Explain the Models component and why standardization across LLM providers was necessary.
 - Differentiate Language Models from Embedding Models.
 - Explain the Prompts component, including dynamic, role-based, and few-shot prompting.
